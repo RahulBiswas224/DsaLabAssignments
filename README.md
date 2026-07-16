@@ -27,4 +27,4 @@ This laboratory course focuses on the practical implementation of fundamental da
 1. Ensure you have a C compiler installed (e.g., GCC).
 2. Clone the repository:
    ```bash
-   git clone [https://github.com/RahulBiswas224/DsaLabAssignments.git](https://github.com/RahulBiswas224/DsaLabAssignments.git)
+   git clone https://github.com/RahulBiswas224/DsaLabAssignments.git
