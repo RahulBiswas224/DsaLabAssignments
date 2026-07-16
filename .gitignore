@@ -1,0 +1,15 @@
+# Compiled object files
+*.o
+
+# Compiled executable files
+*.exe
+*.out
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# VS Code specific files (optional, but recommended)
+.vscode/
